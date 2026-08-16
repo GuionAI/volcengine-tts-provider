@@ -1,6 +1,6 @@
 {
   "name": "@guionai/volcengine-tts-provider",
-  "version": "2026.8.1",
+  "version": "2026.8.2",
   "description": "Volcengine (豆包) provider plugin for OpenClaw — models + TTS. Maintained fork of upstream @openclaw/volcengine-provider for ClawHub distribution (upstream npm is a 0.0.0 placeholder).",
   "type": "module",
   "peerDependencies": {
